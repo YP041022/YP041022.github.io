@@ -17,6 +17,19 @@
   
   
   <entry>
+    <title>浏览器设置黑色背景</title>
+    <link href="/2024/05/31/Microsoft%20Edge%E6%B5%8F%E8%A7%88%E5%99%A8%E8%AE%BE%E7%BD%AE%E9%BB%91%E8%89%B2%E8%83%8C%E6%99%AF/"/>
+    <url>/2024/05/31/Microsoft%20Edge%E6%B5%8F%E8%A7%88%E5%99%A8%E8%AE%BE%E7%BD%AE%E9%BB%91%E8%89%B2%E8%83%8C%E6%99%AF/</url>
+    
+    <content type="html"><![CDATA[<ol><li>打开浏览器 输入地址<br> Microsoft Edge 浏览器<figure class="highlight dts"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs dts"><span class="hljs-symbol">edge:</span><span class="hljs-comment">//flags</span><br></code></pre></td></tr></table></figure> Chrome 浏览器</li></ol><figure class="highlight dts"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs dts"><span class="hljs-symbol">chrome:</span><span class="hljs-comment">//flags</span><br></code></pre></td></tr></table></figure><ol start="2"><li>在搜索框里输入:<figure class="highlight coq"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs coq">Force Dark <span class="hljs-keyword">Mode</span> <span class="hljs-keyword">for</span> Web Contents<br></code></pre></td></tr></table></figure></li></ol><p>如果没有这项就输入:</p><figure class="highlight coq"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs coq">Auto Dark <span class="hljs-keyword">Mode</span> <span class="hljs-keyword">for</span> Web Contents<br></code></pre></td></tr></table></figure><p>它的中文意思是强制网页开启暗色模式</p><ol start="3"><li><p>将选项中的 <code>Default</code> 改为 <code>Enabled</code></p></li><li><p>击下方重启即可</p></li></ol>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Scoop 安装教程</title>
     <link href="/2024/05/31/Scoop%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
     <url>/2024/05/31/Scoop%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/</url>
